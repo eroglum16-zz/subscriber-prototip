@@ -11,7 +11,7 @@ Konfigürasyon
 Çalıştırma
 ------------
 
-1. Projenin base dizininde `$ ./mvnw clean package` komutu çalıştırılarak , veya
+1. Projenin base dizininde `$ ./mvnw spring-boot:run` komutu çalıştırılarak , veya
 2. target dizini içerisindeki *prototip_executable.jar* dosyasını çalıştırarak projeyi başlatabilirsiniz
 Spring web uygulaması localhost üzerinde 8080 portunda çalışıyor olacaktır.
 
