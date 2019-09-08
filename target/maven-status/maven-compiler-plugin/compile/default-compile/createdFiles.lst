@@ -1,0 +1,9 @@
+com/example/prototip/PrototipApplication.class
+com/example/prototip/Subscriber.class
+com/example/prototip/SubscriberController.class
+com/example/prototip/ConfigurationManager.class
+com/example/prototip/SubscriberRepository.class
+com/example/prototip/SubscriberExceptionHandler.class
+com/example/prototip/SubscriberService.class
+com/example/prototip/LogManager.class
+com/example/prototip/DataController.class
